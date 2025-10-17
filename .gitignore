@@ -1,0 +1,9 @@
+# Docker/Airflow related sensitive/temporary files
+.env
+airflow/logs/
+airflow/plugins/
+airflow/webserver_config.py
+dags/config.json
+# Python temporary files
+__pycache__/
+*.pyc
