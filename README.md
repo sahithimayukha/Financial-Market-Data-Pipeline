@@ -72,14 +72,14 @@ The Power BI dashboard provides three dynamic views for analysis, built entirely
 ### 4.1. KPI Page
 This page shows high-impact summary metrics, including the Max Daily Gain/Loss, Average Volume, and Max Price Volatility.
 
-**![alt text](KPI.png)**
+**![KPI Dashboard Screenshot](Screenshots/KPI.png)**
 
 ### 4.2. Trend Page
 This page displays the historical price movements. The **X-Axis** is set to **Categorical** to ensure a clean line chart connecting only the actual daily data points.
 
-**![alt text](Trends.png)**
+**![Trends Dashboard Screenshot](Screenshots/Trends.png)**
 
 ### 4.3. Data Monitoring Page
 This page confirms the system's operational status. The card displays the latest timestamp recorded in the final data table, serving as a proxy for the time of the last successful ETL completion.
 
-**![alt text](Monitor.png)**
+**![Monitoring Dashboard Screenshot](Screenshots/Monitor.png)**
